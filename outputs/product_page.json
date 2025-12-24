@@ -1,24 +1,12 @@
 {
   "product_name": "GlowBoost Vitamin C Serum",
-  "highlights": [
-    "Helps with brightening.",
-    "Helps with fades dark spots."
+  "overview": "Get radiant and glowing skin with our GlowBoost Vitamin C Serum. Formulated with Vitamin C and Hyaluronic Acid, this serum helps brighten and even out your complexion. Suitable for oily and combination skin types.",
+  "key_benefits": [
+    "Brightens and evens out skin tone",
+    "Fades dark spots and hyperpigmentation",
+    "Hydrates and nourishes the skin"
   ],
-  "details": {
-    "concentration": "10% Vitamin C",
-    "skin_type": [
-      "Oily",
-      "Combination"
-    ],
-    "key_ingredients": [
-      "Vitamin C",
-      "Hyaluronic Acid"
-    ],
-    "how_to_use": [
-      "Apply 2â€“3 drops in the morning before sunscreen.",
-      "Always follow up with sunscreen in the daytime."
-    ],
-    "side_effects": "Mild tingling for sensitive skin.",
-    "price_in_inr": 699
-  }
+  "how_to_use": "Apply 2–3 drops in the morning before sunscreen. Gently massage the serum into your skin until fully absorbed. Use daily for optimal results.",
+  "who_is_it_for": "This serum is perfect for individuals with oily and combination skin types who want to achieve a brighter and more even-toned complexion. It's also great for those who want to reduce the appearance of dark spots and hyperpigmentation.",
+  "ingredients_section": "Our GlowBoost Vitamin C Serum contains key ingredients like Vitamin C and Hyaluronic Acid. These powerful antioxidants and humectants work together to provide long-lasting hydration and brightening benefits to the skin."
 }

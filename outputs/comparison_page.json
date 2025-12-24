@@ -1,35 +1,31 @@
 {
-  "product_a": {
-    "name": "GlowBoost Vitamin C Serum",
-    "price_in_inr": 699,
-    "key_ingredients": [
-      "Vitamin C",
-      "Hyaluronic Acid"
-    ]
-  },
-  "product_b": {
-    "name": "HydraGlow Brightening Serum",
-    "key_ingredients": [
-      "Vitamin C",
-      "Niacinamide",
-      "Hyaluronic Acid"
-    ],
-    "benefits": [
-      "Intense hydration",
-      "Brightening"
-    ],
-    "price_in_inr": 899
-  },
-  "comparison_points": [
+  "product_a_name": "GlowBoost Vitamin C Serum",
+  "product_b_name": "HydraGlow 5% Niacinamide Serum",
+  "summary": "Both products are serums, but they cater to different skin types and have distinct ingredients. GlowBoost Vitamin C Serum is suitable for oily and combination skin, while HydraGlow 5% Niacinamide Serum is suitable for normal, dry, and combination skin. They both contain hyaluronic acid, but GlowBoost has vitamin C, and HydraGlow has niacinamide.",
+  "points": [
     {
-      "aspect": "Key ingredients",
-      "product_a": "Vitamin C, Hyaluronic Acid",
-      "product_b": "Vitamin C, Niacinamide, Hyaluronic Acid"
+      "dimension": "Skin Type",
+      "product_a": "Oily, Combination",
+      "product_b": "Normal, Dry, Combination",
+      "verdict": "Product A is more suitable for oily skin, while Product B is more versatile."
     },
     {
-      "aspect": "Price (INR)",
-      "product_a": "699",
-      "product_b": "899"
+      "dimension": "Key Ingredients",
+      "product_a": "Vitamin C, Hyaluronic Acid",
+      "product_b": "Niacinamide 5%, Hyaluronic Acid, Panthenol",
+      "verdict": "Product A has vitamin C, while Product B has niacinamide."
+    },
+    {
+      "dimension": "Benefits",
+      "product_a": "Brightening, Fades dark spots",
+      "product_b": "Improves skin barrier strength, Reduces redness and blotchiness, Provides long-lasting hydration",
+      "verdict": "Product A is better for brightening and fading dark spots, while Product B is better for skin barrier strength, redness, and hydration."
+    },
+    {
+      "dimension": "Price",
+      "product_a": "699 INR",
+      "product_b": "799 INR",
+      "verdict": "Product A is cheaper than Product B."
     }
   ]
 }
