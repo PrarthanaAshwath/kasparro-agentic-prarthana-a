@@ -1,0 +1,35 @@
+{
+  "product_a": {
+    "name": "GlowBoost Vitamin C Serum",
+    "price_in_inr": 699,
+    "key_ingredients": [
+      "Vitamin C",
+      "Hyaluronic Acid"
+    ]
+  },
+  "product_b": {
+    "name": "HydraGlow Brightening Serum",
+    "key_ingredients": [
+      "Vitamin C",
+      "Niacinamide",
+      "Hyaluronic Acid"
+    ],
+    "benefits": [
+      "Intense hydration",
+      "Brightening"
+    ],
+    "price_in_inr": 899
+  },
+  "comparison_points": [
+    {
+      "aspect": "Key ingredients",
+      "product_a": "Vitamin C, Hyaluronic Acid",
+      "product_b": "Vitamin C, Niacinamide, Hyaluronic Acid"
+    },
+    {
+      "aspect": "Price (INR)",
+      "product_a": "699",
+      "product_b": "899"
+    }
+  ]
+}
